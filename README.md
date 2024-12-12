@@ -39,20 +39,20 @@ Dự án EngQuizz là một ứng dụng web cho phép người dùng tạo và 
 1. **Clone Repository**: Sao chép repository từ GitHub về máy tính của bạn bằng cách chạy lệnh sau trong terminal:
 
    ```bash
-   git clone https://github.com/longhoang123123/engquizz/tree/main/frontend_engquizz_ReactJS
+   git clone https://github.com/longhoang123123/engquizz-fe.git
    ```
 
 2. **Cài Đặt Dependencies**: Di chuyển vào thư mục dự án và cài đặt các dependencies bằng npm hoặc yarn:
 
    ```bash
-   cd frontend_engquizz_ReactJS
+   cd engquizz-fe
    npm install
    ```
 
    hoặc
 
    ```bash
-   cd frontend_engquizz_ReactJS
+   cd engquizz-fe
    yarn install
    ```
 
